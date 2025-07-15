@@ -1,0 +1,5 @@
+# Ignora la cartella env
+/env/
+/wandb/
+/dataset/
+ckpt*/
